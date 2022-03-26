@@ -1,5 +1,5 @@
 
-  <h1> SEJA MUITO BEM VINDO(A) </H1> 
+  <h1> Seja muito Bem-vindo </H1> 
 
 - 👋 Olá, Me chamo Jayme Cabral! 
 
