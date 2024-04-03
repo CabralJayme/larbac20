@@ -1,11 +1,4 @@
 
-  <h1> Seja muito Bem-vindo </H1> 
-
-- 👋 Olá, Me chamo Jayme Cabral! 
-
-- 🌱 Sou Analista de testes/QA e Estudo testes automatizados
-
-- 📫 Você pode me encontrar no Linkedin <a href="https://www.linkedin.com/in/jaymecabral/" target="_blank">Jayme Cabral</a>
 
 
 
